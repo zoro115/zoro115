@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Mohamed Kamal</h1>
+<h1 align="center">Hi 👋, I'm Ibrahim Ahmed Abdelmaaboud Himida</h1>
 <h3 align="center">Front End developer🌟.</h3>
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Web Development
 
-- 📫 How to reach me  **ahmed254kamal@gmail.com**
+- 📫 How to reach me  **ibrahimhimida1@gmail.com**
 
 
 <br>
